@@ -3,4 +3,4 @@ Analysis of the dataset: "Google Play Store Apps" collected from [this](https://
 
 It contains data analysis and visualization of the google play store apps from the above data repository. The analysis undertaken was in the context of the "Big Data" module of Strathclyde University, Glasgow, UK, in the academic year 2019-2020.
 
-The results of this analysis leads to insights which can be useful for identifying which attributes are linked with the most popular apps in the Google Playstore.
+The results of this analysis lead to insights that can be useful for identifying which attributes are linked with the most popular apps in the Google Playstore.
