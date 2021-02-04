@@ -3,8 +3,6 @@
 ### *Note:
 Due to a Github bug ([issue #3555](https://github.com/jupyter/notebook/issues/3555)), sometimes the notebook files (files with .ipynb) may not render. Please reload the page until the content can be displayed or click [here](https://colab.research.google.com/drive/1tiYZSi_zsFKvyb7JfS9bMpGWC00i5ZKr) to view the shared google colab notebook file.
 
-Please reload the page until the content can be displayed (sometimes it loads after one reload, some other times it might need a persistent refresh of the page until the content can be shown).
-
 ## Source
 Exploratory data analysis of the dataset: "Google Play Store Apps" collected from [this](https://www.kaggle.com/gauthamp10/google-playstore-apps) kaggle repository.
 
