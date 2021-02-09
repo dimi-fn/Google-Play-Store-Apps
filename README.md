@@ -1,7 +1,7 @@
 # Google Play Store Apps
 
 ### *Note:
-Due to a Github bug, issue [#3035](https://github.com/jupyter/notebook/issues/3035) & [#3555](https://github.com/jupyter/notebook/issues/3555), sometimes the notebook files (files ending in ".ipynb") may not render. Please reload the [page](https://github.com/dimi-fn/Google-Play-Store-Apps/blob/master/Google_playstore.ipynb) until the content can be displayed or click [here](https://colab.research.google.com/drive/1tiYZSi_zsFKvyb7JfS9bMpGWC00i5ZKr) to view the shared Google Colab notebook file.
+Due to a Github bug (issue [#3035](https://github.com/jupyter/notebook/issues/3035) & [#3555](https://github.com/jupyter/notebook/issues/3555), sometimes the notebook files (files ending in ".ipynb")) may not render. Please reload the [page](https://github.com/dimi-fn/Google-Play-Store-Apps/blob/master/Google_playstore.ipynb) until the content can be displayed or click [here](https://colab.research.google.com/drive/1tiYZSi_zsFKvyb7JfS9bMpGWC00i5ZKr) to view the shared Google Colab notebook file.
 
 ## Source
 "Google Play Store Apps - App data of 1.1 Million applications" collected from [this](https://www.kaggle.com/gauthamp10/google-playstore-apps) kaggle repository created by [G. Prakash](https://www.kaggle.com/gauthamp10).
